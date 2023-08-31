@@ -39,7 +39,7 @@ The trained model is used to predict emotions in sample images. The notebook sho
 Feel free to explore the notebook for a comprehensive understanding of the entire process.
 
 ## Credits
-- ALEXNET architecture: [Original Paper](https://www.cs.toronto.edu/~hinton/absps/imagenet.pdf)
+- ALEXNET architecture: [Original Paper](https://arxiv.org/ftp/arxiv/papers/1803/1803.01164.pdf)
 - Emotic Dataset: [Dataset Link](https://github.com/Tandon-A/emotic)
 
 ## License
