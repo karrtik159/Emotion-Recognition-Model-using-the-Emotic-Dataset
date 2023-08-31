@@ -1,7 +1,7 @@
 # Emotion Recognition Model using the Emotic Dataset
 ### Emotion Recognition Using ALEXNET Model with Adam Optimizer
 
-![Header](![Anticipation Image in comparison with 26 Emotion Labels](image.png)) <!-- Replace with an appropriate header image -->
+![Anticipation Image in comparison with 26 Emotion Labels](image.png) <!-- Replace with an appropriate header image -->
 
 This repository contains a Jupyter Notebook that demonstrates the process of training an emotion recognition model using the ALEXNET architecture and the Adam optimizer. The model is trained on the Emotic dataset, which is a collection of images annotated with rich emotion labels.
 
