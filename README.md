@@ -17,7 +17,7 @@ This repository contains a Jupyter Notebook that demonstrates the process of tra
 - [Key Features of the Model](#key-features-of-the-model)
 - [Future Notebooks](#future-notebooks)
 - [Credits](#credits)
-- [Licenses](#licenses)
+- [License](#license)
 
 
 
