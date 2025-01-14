@@ -67,9 +67,6 @@ SOFTWARE.
 
 
 
-
-
-
 Welcome to the Emotion Recognition Model repository! This project showcases a state-of-the-art deep learning model trained on the Emotic dataset, a comprehensive collection of images and videos annotated with rich emotion labels.
 
 Key Features:  
@@ -88,8 +85,8 @@ Key Features:
 
 
 
+Get Involved: Want to contribute to the future of emotion recognition? This is a personal project and just a small glimpse of the work we’ve done in this field. We welcome your contributions, bug reports, and feature requests to help expand the capabilities of this model and make emotions more understandable for machines.
 
+We aim to share the complete analysis and insights for a better understanding of the model's performance and its real-world applications. Join us in enhancing emotion recognition technology and pushing its boundaries.
 
-Get Involved: Want to contribute to the future of emotion recognition? We welcome contributions, bug reports, and feature requests. Join us in expanding the capabilities of this model and making emotions more understandable for machines.  
-
-Note: Remember to customize the description according to the actual features and capabilities of your trained model and the Emotic dataset. This is just a template to give you an idea; feel free to personalize it to match your project's unique attributes.
+Note: Remember to tailor the description according to the actual features and capabilities of your trained model and the Emotic dataset. This is just a template to give you an idea; feel free to personalize it further to match your project's unique attributes.
